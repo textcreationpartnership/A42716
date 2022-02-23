@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A salutation of the Fathers love unto the young men and virgins, who are in the openings of the prophesies in visions and in revelations. And to the labourers in his vineyard; who sound forth his praises in the congregation of the righteous. Through his suffering servant William Gibson.</title>
+            <author>Gibson, William, 1629-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42716</idno>
+            <idno type="STC">Wing G687</idno>
+            <idno type="STC">ESTC R219869</idno>
+            <idno type="EEBO-CITATION">99831316</idno>
+            <idno type="PROQUEST">99831316</idno>
+            <idno type="VID">35779</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42716)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35779)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2049:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A salutation of the Fathers love unto the young men and virgins, who are in the openings of the prophesies in visions and in revelations. And to the labourers in his vineyard; who sound forth his praises in the congregation of the righteous. Through his suffering servant William Gibson.</title>
+                  <author>Gibson, William, 1629-1684.</author>
+               </titleStmt>
+               <extent>[4], 19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Friends' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Early works to 1800.</term>
+               <term>God --  Love --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35779:1" rendition="simple:additions"/>
+            <p>A SALUTATION OF THE Fathers Love, UNTO The young Men and Virgins, who are in the Openings of the Propheſies in Viſions and in Revelations. And to the Labourers in his Vineyard; who ſound forth his praiſes in the Con<g ref="char:EOLhyphen"/>gregation of the Righteous.</p>
+            <p>Through his ſuffering Servant <hi>William Gibſon.</hi>
+            </p>
+            <p>
+               <hi>Light is ſown for the righteous, and joy for the upright in heart: Wiſdome hath lift up her voyce, and underſtanding cryeth aloud.</hi>
+            </p>
+            <p>
+               <hi>The knowledg of the Lord ſhall cover the earth, as the waters cover the Seas.</hi>
+            </p>
+            <p>The time is at hand.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1663.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:35779:2"/>
+            <pb facs="tcp:35779:2"/>
+            <head>To the READER</head>
+            <p>DEar Friend, Child of the glorious day, whoſe heart is turned unto the God of Light and Life, in whom there is no darkneſſe at all, who is come out of the Region where death over ſhadowed thee, who is come to know the vail taken away, by the reſurrection of Chriſt from the dead; unto thee, I ſay, are theſe following lines directed, as a Salutation of the Fathers love unto thee: Therefore dear Friend, I ſay unto thee, ſink down low to feel the Wonderful Counſellour in thee, the key of <hi>David,</hi> which openeth, and giv<g ref="char:EOLhyphen"/>eth thee to underſtand deep ſentences; for from the moving of the Fathers love is this given forth in pure fear; ſo, in the meaſure of the ſame love do thou read it, in pure fear, in the uprightneſs of thy heart, and what o<g ref="char:EOLhyphen"/>pens unto thee as thou readeſt in the true fear, that receive, and treaſure it up in thy heart; and if there be ſomething which doth n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t open unto thee as theu readest, be contented honeſt<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:35779:3"/>to paſſe by it, and let is alone, and ſuffer not thy mind to ſtart aſide from the meaſure of God into the ſubtlety, to comprehend that, which doth not open unto thee, for from that part it is hid, and unto that part there is no<g ref="char:EOLhyphen"/>thing ſpoken but judgement; and the things that are recorded, are true ſayings, as I have received them from the Father, yea, that which I have ſeen, and heard, and felt, declare I unto thee, that thou may<g ref="char:EOLhyphen"/>eſt receive a benefit thereby: So, the Lord direct thy underſtanding in all things.</p>
+            <closer>
+               <signed>W. G.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:35779:3"/>
+            <div type="poem">
+               <head>A SALUTATION Of the Fathers Love.</head>
+               <p>UPon the ſeaventeenth day of the tenth Moneth, as I lay upon my Bed, I was ſwallowed up in the great Deep, where glorious things I there beheld; and when I was thus ſwallow<g ref="char:EOLhyphen"/>ed up, and lay in great fear and trembling, Theſe enſuing words did ariſe freſh in me, in the Life of Jeſus, in ſupplication unto the Father.</p>
+               <lg>
+                  <l>Wiſdom doth flow, God keep me low,</l>
+                  <l>In it to grow, My place therein to know,</l>
+                  <l>That my guide I may not overgo.</l>
+               </lg>
+               <lg>
+                  <l>And O ye children of the day,</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>nto you all I ſay,</l>
+                  <l>Your minds upon God ſtay, and ever pray,</l>
+                  <l>That he may keep us in the narrow way,</l>
+                  <l>That ſo in peace lay downe our heads we may,</l>
+                  <l>Even ſo, Amen, I ſay.</l>
+                  <l>
+                     <hi>Peace be with you.</hi>
+                  </l>
+               </lg>
+               <closer>
+                  <signed>W. G.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="2" facs="tcp:35779:4" rendition="simple:additions"/>
+               <head>To the young Men and Virgins, up<g ref="char:EOLhyphen"/>on whom the Spirit is powred, and is powring forth, who are in the openings of the Propheſies in Viſi<g ref="char:EOLhyphen"/>ons and in Revelations; unto you is my words directed, in the word of Life, in feare and trembling; therefore liſten attentively, and give ear.</head>
+               <p>FRiends all, keep low, down, and cloſe to that, which opens unto you the myſteries or Gods Kingdom, for that which opens is his own power; therefore, I ſay, keep ye all low down unto it in much reverence and fear, and I ſay, take great heed, that you ſuf<g ref="char:EOLhyphen"/>fer not your minds to ſtart aſide from that which opens unto you, into that which it o<g ref="char:EOLhyphen"/>pens; for if you do let forth your minds to comprehend it in the ſenſual or earthly wiſ<g ref="char:EOLhyphen"/>dom, that is exceeding dangerous, for then that which opened unto you will ſhut ſud<g ref="char:EOLhyphen"/>denly again from you, and you will be left groaping in the dark; &amp; that which is alrea<g ref="char:EOLhyphen"/>dy opened, which the earthly and ſenſual part in you hath catched up, that ſame which hath ſtolen it, that will ſpeak it forth again <hi>boaſtingly,</hi> without the true fear of
+<pb n="3" facs="tcp:35779:4"/>God, for that is not the true wiſdome, <hi>but the falſe;</hi> therefore beware of it, for that is the ſubtle <hi>Will or Serpent,</hi> which led the Firſt man to run before his guide, and by following of it he became a tranſgreſſor, and this ſubtle Will or Serpent hath paſſed over all, and it lyeth very neer to catch up that which is opened, and here, by the ſubtlety, the ſimplicity hath been betrayed in many, that after they have felt the true power of God, and by it their underſtandings have been truly opened, they went from the power that opened unto them, and the ſub<g ref="char:EOLhyphen"/>tlety catched up that which was opened, and the ſame ſpake it forth again <hi>boaſtingly;</hi> and ſo, ſuch who have been thus betrayed, many of them have loſt all that good thing, and have ſate down in darkneſs and blind<g ref="char:EOLhyphen"/>neſs, even in a worſe eſtate than they were in at the firſt; but now my Friends, the pow<g ref="char:EOLhyphen"/>er which opens unto you, is that which will keep this untuly <hi>Beaſt</hi> in ſubjection, yea and ſeal <hi>him</hi> in the pit, and keep him there, <hi>but if ſo you witneſſe it,</hi> you muſt dwell in pure dread, and fear, continually: So then, this I ſay, all keep in the feeling of the Lambs power, who is meek and lowly, who ſaith, <hi>Learn of me,</hi> and herein you will be kept humble and low, and you will feel
+<pb n="4" facs="tcp:35779:5" rendition="simple:additions"/>Chriſt Jeſus to rule and raign over that ſub<g ref="char:EOLhyphen"/>tle Serpentine and beaſtly will <hi>in you,</hi> for I tell you plainly that, that is it which firſt did the <hi>evil,</hi> and that muſt either be kept under the yoak continually, <hi>which is the power of God,</hi> or elſe man cannot be kept out of the tranſgreſſion: So then, I ſay, keep to the power which opens unto you, and look not out into that which is opened, for this, I ſay unto you, if you keep to the power which opens that which runneth through your underſtandings, <hi>once</hi> in the power, it will ſtand and remain open unto you in the ſame power, while you have a Being, if in that which opened it you abide; ſo in the power abide, and that which is opened unto you treaſure it <hi>up</hi> in pure fear, and let it lye a hidden treaſure in <hi>you,</hi> and when the pow<g ref="char:EOLhyphen"/>er that opened it moveth in you to ſpeak forth any part of the myſteries revealed un<g ref="char:EOLhyphen"/>to you, then you may freely do it, but in much fear and reverence, <hi>leaſt</hi> that crooked Serpent or beaſtly will lead you beyond what the true power moved you <hi>unto;</hi> for I ſay, you muſt take great care continually, that you keep that forward part, the ſubtle <hi>Will</hi> in ſubjection, for if in a little meaſure that do but get way, it ſpeedily bringeth all out of <hi>order;</hi> ſo, I ſay unto you all (a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:35779:5"/>moved of the Lord God) as you prize the glory of God, and the everlaſting welfare of your ſouls, wait in fear and trembling to keep that part in ſubjection, ſo ſhall you grow and proſper in the eternal and ever<g ref="char:EOLhyphen"/>laſting truth of God, and ſtand, and abide, and be bleſſed for evermore.</p>
+               <closer>
+                  <signed>W. G.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>And now, O ye young men and Vir<g ref="char:EOLhyphen"/>gins, whoſe mouths the Lord of Life hath opened, and is opening, to declare his wonderful works, and what he hath done for your ſouls; yea I ſay, unto you is my ſpeech directed, who are moved of the Lord to declare, and to ſound forth prayers and praiſes unto him, in the Aſſemblies and congre<g ref="char:EOLhyphen"/>gations of the righteous: There<g ref="char:EOLhyphen"/>fore in the true fear liſten and give ear.</head>
+               <p>FRiends all, When you go to meet with your Brethren &amp; Siſters, to wait upon the great and mighty God, who ſearcheth all hearts, and before whom all things are na<g ref="char:EOLhyphen"/>ked
+<pb n="6" facs="tcp:35779:6" rendition="simple:additions"/>and bare: Then I ſay, ſink down low to feel his pure powerful preſence to ariſe in you, and to come up and ſtand over all that is contrary unto it <hi>in you,</hi> and then what you receive in the power, to utter forth, that is in the word of the Lord God, which is <hi>Pure,</hi> and that will anſwer the pure in all, and in your declaring of that, which is given you in the true power, your ſouls will be great<g ref="char:EOLhyphen"/>ly Refreſhed: But Friends, In Gods pure fear and dread, <hi>I Warn you all,</hi> Take great heed that you ſuffer not your will to get at liberty, but when you feel the true power riſing in you, and words come in, look not out into the <hi>Words,</hi> but keep to the power, and wair, ſtill, and low, and let the power work through and over the contrary, for<g ref="char:EOLhyphen"/>ward and ſubtle <hi>Will,</hi> which would lead you to look at the <hi>Words,</hi> and to catch up the words into your <hi>Memory,</hi> and to turn from the power, and ſo that ſubtle part which catcheth at words as they <hi>open,</hi> that would ſpeak them forth, but that is to be judged <hi>down,</hi> and kept ſilent, and the mind kept cloſe to the power that <hi>works,</hi> and the pow<g ref="char:EOLhyphen"/>er will work over that which would run be<g ref="char:EOLhyphen"/>fore, and the words which openeth in the power will ariſe more and more cleer in you, if you do not look at <hi>them,</hi> but at the
+<pb n="7" facs="tcp:35779:6" rendition="simple:additions"/>power that moveth, and when you feel the power of God to ſtand over your own wills, and feeleth it to burn in your hearts, even as a fire, ſo that you feel you are in the domini<g ref="char:EOLhyphen"/>on over the contrary <hi>Part,</hi> then, I ſay, ſtand up boldly, in the fear and dread of God, and let the power open your mouths, and keep cloſe unto it, and let that go freely forth which the power moves unto, and when your mouths are opened, and your fouls greatly refreſhed, <hi>then take heed</hi> that your ſouls be not over much <hi>Lifted up in Joy and Zeal,</hi> for that is very dangerous to lead you cut of your meaſure, but keep down to the power, and ſtill utter in the <hi>true</hi> fear, and when you are <hi>emptied</hi> of the words which was given <hi>in,</hi> in the power, then, even then <hi>take heed,</hi> that you ſuffer not your minds to <hi>ſtart</hi> from the power, into the ſubtle part to fetch in words, for verily, there is great danger in that very <hi>thing;</hi> therefore beware of it, for if that get way, it will bring a burthen, both in the particular, &amp; in the ge<g ref="char:EOLhyphen"/>neral, and ſo the power cometh to be <hi>abuſed,</hi> and he that thus utters he looſeth his domi<g ref="char:EOLhyphen"/>nion by abuſing the power, and he ſitteth down in <hi>ſorrow:</hi> But this I ſay in the fear and dread of the Lord God, unto thee who<g ref="char:EOLhyphen"/>ſoever thou art, when thou feeleſt that thou
+<pb n="8" facs="tcp:35779:7" rendition="simple:additions"/>art <hi>emptied</hi> of thoſe words, which was given unto thee <hi>clear</hi> in the power, then <hi>ſit</hi> down, and keep thy mind cloſe unto the power, &amp; wait in the coolneſs, ſtill and low, and feel that thou haſt ſuch dominion over thy own will, that thou canſt be as freely willing to be ſilent as to <hi>utter,</hi> feel it even <hi>ſo,</hi> for if it be not ſo, it is not <hi>Right,</hi> &amp; ſo if thou ſit down in the true fear of the Lord before thou have <hi>overſpent</hi> thy ſelf, then the power may open again and again in a meeting, and as the power opens and truly moves, thou art to be obedient, and here thou goeſt along with thy <hi>Guide,</hi> and in ſo doing thou doeſt pleaſe the Lord, and wilt grow dayly in his wiſdome and power, and he will proſper his work in thy hand, and in his truth he will make thee <hi>ſtand,</hi> and abide even to the end and this I ſay unto thee in Gods pure fear, keep low and humble continually, and all things which thy Lord maketh thee an In<g ref="char:EOLhyphen"/>ſtrument for good <hi>in,</hi> purely give him the glory of his own <hi>work,</hi> and take thou great heed, that thou give not way in the leaſt un<g ref="char:EOLhyphen"/>to that in thee which would lead thee to have high thoughts of thy <hi>ſelf,</hi> for that is an evil appearance; therefore as thou prizeſt thy <hi>life</hi> do thou ſlee from that, for if thou ſhould'ſt give way to that, it would lead
+<pb n="9" facs="tcp:35779:7" rendition="simple:additions"/>thee to take glory to thy <hi>ſelf,</hi> which is not due unto thee, and ſo thou wouldſt <hi>rob God,</hi> and he that robbeth God ſhall not proſper, <hi>God will blast him in his fury,</hi> and he ſhall die and come to <hi>nought,</hi> the mouth of the lord hath ſpoken it; therefore, O man, fear and dread, and ſtand in awe, continually, for God is <hi>zealous</hi> of his own <hi>Glory,</hi> and he will not give it unto another; he doth for<g ref="char:EOLhyphen"/>bid that <hi>thou</hi> ſhouldeſt glory in any thing, but <hi>only</hi> in his powerful preſence, And that is it, which will keep down that which will rob <hi>him,</hi> and it will keep thee humble and <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eek and lowly continually; and thou being duly humble, thou art truly honourable, for mile man abides in the power of God, he is truly honourable, and that of God in the hearts of all that fear God, honoureth him: But that which leadeth into <hi>conceits of ſelf,</hi> and ſeeketh honour to it ſelf, <hi>That,</hi> is gone from the power of God, in which the true honour ſtandeth, and unto which it is due; and the more that man ſeeketh it, the fur<g ref="char:EOLhyphen"/>ther he is from it, for the <hi>Curſe</hi> is unto that <hi>Part;</hi> God bringeth the lofty from his Seat, and exalteth them of low degree.</p>
+               <p>
+                  <hi>And now Friends,</hi> The Serpent being move ſubtil than any Beaſt of the Field, which the Lord God created, he <hi>moved</hi>
+                  <pb n="10" facs="tcp:35779:8"/>without the power of his Creator, and ſo in rebellion againſt the power that created <hi>him,</hi> and ſo he became <hi>evil,</hi> and ſo <hi>accurſed,</hi> by the power againſt which he hath rebel<g ref="char:EOLhyphen"/>led, and ſo he ſtandeth in continual enmity againſt the power that created him. Now my Friends, This wicked one, which is at continual enmity againſt the <hi>workings</hi> of the Spirit of God in <hi>Man,</hi> he hath divers op<g ref="char:EOLhyphen"/>perations and influences upon the ſouls or ſpirits of men, that inward or inviſible crea<g ref="char:EOLhyphen"/>ture, which moveth about the outward or viſible creature <hi>Man:</hi> And my Friends the Spirit and power of God, is that which was before the wicked One was, and ſhall be when he ſhall be no more. All things was good in the beginning, and there was no <hi>evil,</hi> and therefore no <hi>Curſe.</hi> And now friends all, ſink down and keep low, to that which was in the beginning, the power of God, and that will give you to know your own ſpirits, what ſpirits you are of, for men do differ in their ſpirits, or that inward Creature, which moveth about the outward Creature.</p>
+               <p>Now Friends, Some are of a forward, bold and valiant ſpirit, and others are of a more backward and fearful: Now I ſay, The power of God will ſhew unto every
+<pb n="11" facs="tcp:35779:8" rendition="simple:additions"/>one that beleeveth, and abideth in it, what ſpirit they are of: Now thou that waſt bold and forward before thou cameſt to know the Lord, thou art now bold and forward, and full of <hi>zeal</hi> for the Truth; and there lyeth thy weakneſs, for the ſubtilty to lead thee before thy <hi>Guide,</hi> the power of God which created thy Spirit, and in which thy ſpirit is to <hi>move,</hi> and not before it: So keep down to the power, that thy ſpirit may be ſubject unto the power, and <hi>move</hi> in the power, and ſo the power bringeth man into the ſtate in which he was created in the beginning. So fare thee well, keep to thy Guide, for in thy obedience conſiſteth thy eternal welfare.</p>
+               <p>And now thou that waſt of a backward, ſlow, or fearful ſpirit, before thou knew the lord, thou art now fearful, backward, and ſlow, and when the Spirit of God moveth upon thy <hi>ſpirit,</hi> to ſpeak forth what he re<g ref="char:EOLhyphen"/>quireth of thee, then here lyeth thy weak<g ref="char:EOLhyphen"/>neſs, for the ſubtilty to enter; if thou look <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, the ſubtilty will tell thee, that thou art <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to <hi>ſpeak,</hi> and it will bring ſtrange Rea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> unto thee; if thou hearken unto it, it will tell thee, that there is thy elder Bre<g ref="char:EOLhyphen"/>thren, who are to ſpeak, but thou art <hi>not,</hi>
+                  <pb n="12" facs="tcp:35779:9" rendition="simple:additions"/>and if thou do, they will judge thee. Many other things it will preſent unto thee, which would be too tedious to mention; It may bring bad and wicked things before thee, to render thee unfit and unworthy to ſpeak; and all this his labour with thee, is to cauſe thee to diſobey thy God, and to ſtrangle the motion of his Spirit in thee; and thus he will do with the boldeſt of men, if they look <hi>out</hi> that way; but he more frequently work<g ref="char:EOLhyphen"/>eth upon this hand with thee that is of a fearful and ſlow ſpirit: But this I ſay both to the bold and fearful, Look not out, hear<g ref="char:EOLhyphen"/>ken not to this ſubtil <hi>One,</hi> which on his belly creepeth, ſtriving which of us he may de<g ref="char:EOLhyphen"/>vour, but keep ye down low to feel the Lambs power, and to its <hi>moving</hi> be obedi<g ref="char:EOLhyphen"/>ent, yea, follow him whitherſoever he lead<g ref="char:EOLhyphen"/>eth you, and in the Lambs power you will grow in the Dominion of the Lamb, over the ſubtil Serpent, and devouring <hi>Wolf,</hi> and his Kingdome and Dominion ſhall come to an end, for it had a beginning. So fare you well, ye Beloved of the Lord, unto whom my ſoul is united, in the everlaſting Light of the Day, that is ſprung from on high, and hath viſited us; Oh the bleſſing of God be with your ſpirits, even ſo ſaith my ſpirit in the power that created it.</p>
+            </div>
+            <div type="part">
+               <pb n="13" facs="tcp:35779:9" rendition="simple:additions"/>
+               <head>To the Labourers in the Lords Vine<g ref="char:EOLhyphen"/>yard, am I drawn forth in the power of the Love of the Lord of the Vineyard. <g ref="char:V">Ʋ</g>nto you Brethren and Siſters, a humble Salutation, in much fear and trembling, in the lowly life of the Lamb, which alwayes moves contrary unto the corrupt will of man.</head>
+               <p>
+                  <hi>FRiends all,</hi> keep low in the feeling of the Arme and Power of the Lord of the <hi>Vineyard,</hi> for that is it which worketh the Lords work; ſo whatever thy employment be in the <hi>Vineyard,</hi> ſtill wait low to feel the power of the Lord to lead thee on, ſo will the bleſſing of the Lord accompany thee continually, and he will bleſſe thy labours, and proſper his work in thy hands, and thy reward will be ſure unto thee. And now my Brethren and Siſters, This is that which is in my heart from the Lord of the <hi>Vine<g ref="char:EOLhyphen"/>yard</hi> unto you, When you are drawn toge<g ref="char:EOLhyphen"/>ther into the Congregation of the righte<g ref="char:EOLhyphen"/>ous, to ſound forth the praiſes of the Lord of the Vineyard, then keep in the true fear, that ſo you may have the perfect feeling one
+<pb n="14" facs="tcp:35779:10" rendition="simple:additions"/>of another, in the ſpirit of propheſie, that ſo your ſpirits may be ſubject one unto ano<g ref="char:EOLhyphen"/>ther in the ſpirit of propheſie, and ſo one give way unto another, that ſo all may be eaſed, and none burdened.</p>
+               <p>
+                  <hi>Friends,</hi> It is a good and honeſt and up<g ref="char:EOLhyphen"/>right heart, that in all things will do as it would be done by; the Lord God loveth that heart, and he will greatly bleſſe and proſper that man. So ye beloved of the Lord, Labour in the love, every one in the uprightneſs and integrity of his heart, both towards his God and his Neighbour, and every one will know his place and his work in the Vineyard, and every one will labour in the meaſure of the gift committed unto him, as a good Steward of the grace given unto him, whether it be more or leſs; and here none will look out at another, he that hath the leſſer meaſure will not overſtrain himſelf in his labour, to ſtrive to run or equal parallel with him that hath the great<g ref="char:EOLhyphen"/>er meaſure; but every one here will labour in the love, according to the ſtrength receiv<g ref="char:EOLhyphen"/>ed from the Lord of the Vineyard; and here none will be ſtifled, or maimed, but all will be preſerved, and grow and proſper and renew their ſtrength daily, and the Lord of the Vineyard will walk in the midſt of us
+<pb n="15" facs="tcp:35779:10" rendition="simple:additions"/>continually, and he will fill our Veſſels with the pure vertue of his own life, and the <hi>Harmonious and Melodious</hi> ſound will be heard amongſt us. Oh my Friends, Let us all dwell in the <hi>Munition</hi> of the Rock that is low in the Valley, ſo ſhall we be ſafe from <hi>harme.</hi> In the Munition of the Rock which lyoth low in the Valley, the great Leviathan, that piercing Serpent hath no place; there<g ref="char:EOLhyphen"/>fore there let us all repoſe, and dwell and abide continually, ſo ſhall we be preſerved unto the end, and the Fountain kept open, yea more and more open, and the ſtreams flow more and more, to the refreſhing of the tender plants of the Lords Vineyard, and all the honour and glory will ſweetly ſound and redound unto the Lord of the Vineyard, unto whom it is due, and here none of the Labourers in the Lords Vine<g ref="char:EOLhyphen"/>yard, will murmure againſt the Lord of the Vineyard, nor ſay in their hearts, <hi>We have laboured in the heat of the day; and doſt thou give unto thoſe that come but now, as much as unto us?</hi> And if any ſhould ſo ſay unto the Lord of the <hi>Vineyard,</hi> then this is the anſwer of the voyce which is holy, <hi>Friend, I do thee no wrong.</hi>
+               </p>
+               <p>
+                  <hi>But ye Ancients in Iſrael,</hi> Feel, I ſay ſeel me, You are very honourable in my heart,
+<pb n="16" facs="tcp:35779:11" rendition="simple:additions"/>God Almighty knoweth; and you know honour is not to that which ſeeketh it; and what I here write, is by the conſtraint of the Spirit of my Lord, and in the ſame re<g ref="char:EOLhyphen"/>ceive me. Oh my Friends, Bowels of love and pity I do feel greatly to yearne in me unto the weak and feeble, and ſtrained and maimed; Oh pity, pity and compaſſion to<g ref="char:EOLhyphen"/>wards them. O ye Ancients in <hi>Iſrael,</hi> who dwell in the deep, and have the healing ver<g ref="char:EOLhyphen"/>tue, ſtrengthen the weak, comfort the fee<g ref="char:EOLhyphen"/>ble, bind up the wounds of your neighbours, like the good <hi>Samaritan,</hi> pour in oyle, and the chief Shepherd, the Lord of the Vine<g ref="char:EOLhyphen"/>yard, he will be your everlaſting reward. The Lord God keep you in your Dominion, and make you more and more famous and honourable; even ſo <hi>Amen,</hi> ſaith the ſoul of him, who is one of the little ones of the thouſands of <hi>Iſrael.</hi>
+               </p>
+               <p>
+                  <hi>Friends,</hi> We are come unto the glorious day that maketh all things manifeſt, which ſearcheth out the hidden things of <hi>Eſau:</hi> We are come to the true Touch-ſtone, by which we are come to know our own ſpi<g ref="char:EOLhyphen"/>rits in meaſure, and we are become the Salt of the earth, by the Revelation of the Day which is ſprung from on high, and hath
+<pb n="17" facs="tcp:35779:11"/>viſited us, and now as we have received Je<g ref="char:EOLhyphen"/>ſus Chriſt the Light, let us walk in him, who is the fountain of Love; and if we a<g ref="char:EOLhyphen"/>bide in him, who is the Light, Way, Truth and Life, here we cannot ſtumble nor fall, for he that walketh in the Light, there is no occaſion of ſtumbling in him: Now Friends, ſeeing that our God hath done ſuch great and glorious things for us, let us all wait upon him in great reverence and fear, ſee<g ref="char:EOLhyphen"/>ing it is he that bringeth all hidden things to Light; let us diligently wait upon him, to lead us and guide us in all our labours and travels in this glorious work of his, in which he hath made us Inſtruments.</p>
+               <p>Friends, it is a high and weighty work that our God hath called us unto, even to be as Inſtruments in his hands to <hi>win</hi> Souls unto him, which is the high-calling, no things to be compared to it; therefore let us fear, let us dread, yea, let us ſtand in awe continually of him, the Lord our Lea<g ref="char:EOLhyphen"/>der, that ſo we may know that we have our continual being and <hi>Center</hi> in him, and ſo live in him, and move in and with him, and not without him, nor before him, for in him we have the true ſeeing, feeling, taſting and handling; he that hath given us the know<g ref="char:EOLhyphen"/>ledge of our own ſpirits, by the ſame wiſ<g ref="char:EOLhyphen"/>dome
+<pb n="18" facs="tcp:35779:12"/>he giveth us to know and diſcern and taſt the ſpirits of men: So Friends, let us follow our Guide with much diligence and fear, and let no reports be received as at a diſtance, but try the ſpirits that report with the true Touch-ſtone, whether it be of God, or not; and if upon tryal you find it be of God, then you may wait to feel the thing reported, and then wait to feel whe<g ref="char:EOLhyphen"/>ther God requires any thing of you, to ſpeak unto the thing reported unto you, and this I find to be very ſafe; but if upon tryal made, that you find that ſpirit that reports, <hi>not</hi> to be of God, but a flattering or back<g ref="char:EOLhyphen"/>bi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing, or whiſpering, or envious, or proud ſpirit, then, I ſay, wait upon the Lord God, and if thou feel him move in thee, to lay weight upon that ſpirit, <hi>pitty it not,</hi> for it is for the wrath, plague and vengeance of the Lord God, and here the evil <hi>Eye</hi> will be kept blind, and ſtreightneſſe kept out of the <hi>Mind,</hi> and our underſtandings will be kept open, and we ſhall grow in the pure diſcerning, and with the eye that is of God we ſhall ſee what to <hi>nouriſh,</hi> and what to feed with judgment; and here is the true judgment, and this judgment will ſtand, and it will not hurt nor deſtroy any thing of God in any; and here that wicked one,
+<pb n="19" facs="tcp:35779:12"/>who fitteth his veſſels to ſpread his <hi>Poyſon<g ref="char:EOLhyphen"/>full</hi> and curſed ſeed of <hi>Diſſention,</hi> will be kept out, and his Inſtruments kept under, and the body will be kept out of <hi>Rents,</hi> and love, mercy and peace will be greatly mul<g ref="char:EOLhyphen"/>tiplied unto us and amongſt us.</p>
+               <p>And thus I have diſcharged my Conſci<g ref="char:EOLhyphen"/>ence in obedience unto my God, and now in love, joy and peace, I ceaſe to write, and heartily bid you all Farewel.</p>
+            </div>
+            <closer>
+               <dateline>Shrewſbury <hi>Common Goal, where I remain a Witneſſe for my God,</hi> 
+                  <date>this 26 <hi>day of the</hi> 10. <hi>Month,</hi> 1661.</date>
+               </dateline>
+               <signed>W. G.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
